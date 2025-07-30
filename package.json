@@ -1,0 +1,20 @@
+{
+  "name": "javascript-developer-m1",
+  "version": "1.0.0",
+  "description": "formação javascript da DIO",
+  "homepage": "https://github.com/glauciaandare/javascript-developer-m1#readme",
+  "bugs": {
+    "url": "https://github.com/glauciaandare/javascript-developer-m1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauciaandare/javascript-developer-m1.git"
+  },
+  "license": "ISC",
+  "author": "Gláucia Andare & Dio.me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
